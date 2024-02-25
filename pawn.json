@@ -1,0 +1,8 @@
+{
+	"user": "tsssu",
+	"repo": "y_inline_bcrypt",
+	"dependencies": [
+        "pawn-lang/YSI-Includes@5.x",
+		"Sreyas-Sreelal/samp-bcrypt"
+	]
+}
